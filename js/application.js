@@ -5,7 +5,7 @@ window.requestAnimationFrame(function () {
 
 
     var imageList = [
-        "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-derp-212.gif",
+        "http://eric11eca.github.io/img/lucy/lucy-2.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-fat-212.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-gradient-212.gif",
         "http://d1e3ezyatlol8u.cloudfront.net/img/212/doge-hat-212.gif",
