@@ -551,33 +551,33 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-2.jpg');
+    background: #f0f url('https://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-2.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-4 .tile-inner {
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-4.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-4.jpg');
     background-size: cover;    
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-8 .tile-inner {
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-8.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-8.jpg');
     background-size: cover;}
     
   .tile.tile-16 .tile-inner {
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-16.jpg');
+    background: #f0f url('github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-16.jpg');
     background-size: cover;}
     
   .tile.tile-32 .tile-inner {
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-32.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-32.jpg');
     background-size: cover;}
     
   .tile.tile-64 .tile-inner {
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-64.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-64.jpg');
     background-size: cover;}
     
   .tile.tile-128 .tile-inner {
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-128.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-128.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -586,7 +586,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
 
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-256.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-256.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -595,7 +595,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
 
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-512.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-512.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -603,7 +603,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-1024.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-1024.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -612,7 +612,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
 
-    background: #f0f url('http://eric11eca.github.io/img/lucy/lucy-2048.jpg');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-2048.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
@@ -621,7 +621,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
 
-    background: #f0f url('http://mdjorge.github.io/doge2048/img/212/doge-derp-212.gif');
+    background: #f0f url('http://github.com/eric11eca/lucy2048/blob/master/img/lucy/lucy-2048.jpg');
     background-size: cover;    
     font-size: 30px; }
     @media screen and (max-width: 480px) {
